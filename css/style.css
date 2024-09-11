@@ -11,3 +11,11 @@
 .logo > img {
   max-width: 250px;
 }
+
+.header_nav > ul {
+  list-style: none;
+  display: flex;
+  gap: 0 24px;
+  justify-content: center;
+  padding: 0;
+}
