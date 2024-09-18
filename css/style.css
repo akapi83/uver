@@ -23,9 +23,10 @@
 
 .header_nav a {
   text-decoration: none;
+  color: black;
 }
 
-.register {
+.header_nav .register {
   background-color: black;
   padding: 13px 20px;
   color: white;
