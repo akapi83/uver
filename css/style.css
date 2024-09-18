@@ -20,8 +20,13 @@
   padding: 0;
 }
 
+.header_nav a {
+  text-decoration: none;
+}
+
 .register {
   background-color: black;
-  padding: 20px;
+  padding: 13px 20px;
   color: white;
+  border-radius: 30px;
 }
