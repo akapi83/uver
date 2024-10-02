@@ -32,3 +32,7 @@
   color: white;
   border-radius: 30px;
 }
+
+.main_visual img {
+  width: 100%;
+}
