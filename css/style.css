@@ -49,6 +49,10 @@
   margin-top: 80px;
 }
 
+.item {
+  width: 25%;
+}
+
 .item img {
   max-width: 100%;
 }
